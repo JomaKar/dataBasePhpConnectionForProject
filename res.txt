@@ -1,0 +1,50 @@
+Sidras        |   135 | liter        | ./assets/images/ingredients/Sidras.jpg        |
+Licores       |   251 | liter        | ./assets/images/ingredients/Licores.jpg       |
+Vino blanco   |   135 | liter        | ./assets/images/ingredients/Vino blanco.jpg   |
+Vino caliente |   243 | liter        | ./assets/images/ingredients/Vino caliente.jpg |
+Vino tinto    |   121 | liter        | ./assets/images/ingredients/Vino tinto.jpg    |
+Vino rosado   |   142 | liter        | ./assets/images/ingredients/Vino rosado.jpg   |
+Whisky        |   156 | liter        | ./assets/images/ingredients/Whisky.jpg        |
+Aceite        |    16 | liter        | ./assets/images/ingredients/Aceite.jpg        |
+Crema         |    26 | liter        | ./assets/images/ingredients/Crema.jpg         |
+Yogur         |    29 | liter        | ./assets/images/ingredients/Yogur.jpg         |
+Leche         |    18 | liter        | ./assets/images/ingredients/Leche.jpg         |
+Helado        |    28 | liter        | ./assets/images/ingredients/Helado.jpg        |
+Cervezas      |    21 | liter        | ./assets/images/ingredients/Cervezas.jpg      |
+Cafés         |    22 | liter        | ./assets/images/ingredients/Cafés.jpg         |
+Agua          |    14 | liter        | ./assets/images/ingredients/Agua.jpg          |
+Zumo          |    25 | liter        | ./assets/images/ingredients/Zumo.jpg          |
+Te            |    30 | liter        | ./assets/images/ingredients/Te.jpg            |
+Horchata      |    11 | liter        | ./assets/images/ingredients/Horchata.jpg      |
+Queso         |    28 | kg           | ./assets/images/ingredients/Queso.jpg         |
+Hongos        |    21 | kg           | ./assets/images/ingredients/Hongos.jpg        |
+Legumbres     |    28 | kg           | ./assets/images/ingredients/Legumbres.jpg     |
+Patata        |    28 | kg           | ./assets/images/ingredients/Patata.jpg        |
+Lechugas      |    25 | kg           | ./assets/images/ingredients/Lechugas.jpg      |
+Alcachofa     |    27 | kg           | ./assets/images/ingredients/Alcachofa.jpg     |
+Berenjena     |    28 | kg           | ./assets/images/ingredients/Berenjena.jpg     |
+Brócoli       |    15 | kg           | ./assets/images/ingredients/Brócoli.jpg       |
+Calabaza      |    24 | kg           | ./assets/images/ingredients/Calabaza.jpg      |
+Cebolla       |    24 | kg           | ./assets/images/ingredients/Cebolla.jpg       |
+Tomate        |    27 | kg           | ./assets/images/ingredients/Tomate.jpg        |
+Zanahoria     |    19 | kg           | ./assets/images/ingredients/Zanahoria.jpg     |
+Espárrago     |    16 | kg           | ./assets/images/ingredients/Espárrago.jpg     |
+Espinaca      |    26 | kg           | ./assets/images/ingredients/Espinaca.jpg      |
+Maíz          |    15 | kg           | ./assets/images/ingredients/Maíz.jpg          |
+Pepino        |    20 | kg           | ./assets/images/ingredients/Pepino.jpg        |
+Pimiento      |    27 | kg           | ./assets/images/ingredients/Pimiento.jpg      |
+Aguacate      |    16 | kg           | ./assets/images/ingredients/Aguacate.jpg      |
+Mango         |    12 | kg           | ./assets/images/ingredients/Mango.jpg         |
+Durazno       |    27 | kg           | ./assets/images/ingredients/Durazno.jpg       |
+Peras         |    18 | kg           | ./assets/images/ingredients/Peras.jpg         |
+Manzanas      |    11 | kg           | ./assets/images/ingredients/Manzanas.jpg      |
+Uvas          |    25 | kg           | ./assets/images/ingredients/Uvas.jpg          |
+Limón         |    22 | kg           | ./assets/images/ingredients/Limón.jpg         |
+Mandarina     |    23 | kg           | ./assets/images/ingredients/Mandarina.jpg     |
+Naranja       |    16 | kg           | ./assets/images/ingredients/Naranja.jpg       |
+Piña          |    18 | kg           | ./assets/images/ingredients/Piña.jpg          |
+Sandía        |    19 | kg           | ./assets/images/ingredients/Sandía.jpg        |
+Harina        |    12 | kg           | ./assets/images/ingredients/Harina.jpg        |
+Pan           |    19 | piece        | ./assets/images/ingredients/Pan.jpg           |
+Arroz         |    12 | kg           | ./assets/images/ingredients/Arroz.jpg         |
+Pasta         |    16 | kg           | ./assets/images/ingredients/Pasta.jpg
